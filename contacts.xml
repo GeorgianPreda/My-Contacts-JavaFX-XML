@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>John</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>00582288664</phone_number>
+	<notes>Test</notes>
+</contact>
+<contact>
+	<first_name>Georgian</first_name>
+	<last_name>Preda</last_name>
+	<phone_number>0747468906</phone_number>
+	<notes>test 2</notes>
+</contact>
+</contacts>
